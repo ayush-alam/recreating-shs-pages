@@ -1,0 +1,25 @@
+.mainline{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 34px;
+	background-color: green;
+	color: yellow;
+}
+.aboutmain{
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color: pink;
+	color: red;
+	font-size: 24px;
+}
+.maintext{
+	font-family: 'Copse', serif;
+	background-color: lightgrey;
+	color: black;
+	font-size: 21px;
+}
+.info{
+	font-family: 'Carme', sans-serif;
+	font-size: 21px;
+}
+.managing{
+	text-decoration: none;
+}

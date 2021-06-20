@@ -1,0 +1,44 @@
+.banner{
+	background-color: pink;
+	color: yellow;
+}
+.logoman{
+
+}
+.bannertext{
+	background-color: black;
+	color: yellow;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 28px;
+}
+.contact{
+	background-color: lightyellow;
+	color: orange;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bold;
+	font-size: 17px;
+}
+.nav{
+	background-color: lightgreen;
+	color: darkgreen;
+	font-size: 34px;
+	font-family: 'Do Hyeon', sans-serif;
+}
+.welcome{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 30px;
+}
+.dreamline{
+	font-size: 19px;
+	font-family: 'Asap', sans-serif;
+}
+.maintext{
+	font-family: 'Asap', sans-serif;
+}
+.down{
+	background-color: black;
+	color: white;
+	font-family: 'Balsamiq Sans', cursive;
+	text-align: center;
+	height: 95px;
+}

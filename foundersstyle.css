@@ -1,0 +1,16 @@
+.foundersimg{
+	height: 297px;
+}
+.name{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.about{
+	font-family: 'Montserrat', sans-serif;
+}
+.down{
+	background-color: black;
+	color: white;
+	font-family: 'Balsamiq Sans', cursive;
+	text-align: center;
+	height: 95px;
+}

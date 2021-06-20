@@ -1,0 +1,30 @@
+.annfunc{
+	background-color: lightgreen;
+	font-size: 31px;
+	width: 320px;
+	border: black solid;
+}
+.sarpuj{
+	background-color: pink;
+	font-size: 31px;
+	width: 320px;
+	border: black solid;
+}
+.kare{
+	background-color: lightblue;
+	font-size: 31px;
+	width: 320px;
+	border: black solid;
+}
+.kawo{
+	background-color: green;
+	color: lightgreen;
+	font-size: 31px;
+	width: 320px;
+	border: black solid;
+}
+.mrandpad{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}

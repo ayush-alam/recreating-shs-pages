@@ -1,0 +1,22 @@
+.heading{
+	background-color: pink;
+	font-family: 'Ubuntu', sans-serif;
+	border: black solid;
+	font-size: 37px;
+}
+.theclass{
+	background-color: lightgreen;
+	font-family: 'Josefin Sans', sans-serif;
+	border: black solid;
+	font-size: 37px;
+}
+.wow{
+	background-color: yellow;
+	font-family: 'Josefin Sans', sans-serif;
+	border: black solid;
+	font-size: 37px;
+}
+.table{
+	border: black solid;
+	font-size: 37px;
+}
